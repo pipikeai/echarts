@@ -1,5 +1,6 @@
 /**
  * Export echarts as CommonJS module
+ 2222222222222222222222222
  */
 module.exports = require('./lib/echarts');
 
